@@ -1,0 +1,12 @@
+Choose a place to order from.
+Go to the website of the place you decided upon.
+Put in the address of the place you want the pizza delivered to.
+Choose the size of the pizza.
+Choose the style of pizza.
+Choose stuffed crust, it's the only way.
+Finish by adding the toppings you desire.
+Add card information.
+Tip your driver 20%.
+Place the order.
+Wait for the order to arrive.
+Enjoy pizza!
