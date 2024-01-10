@@ -5,9 +5,12 @@ Choose the size of the pizza.
 Choose the style of pizza.
 Choose stuffed crust, it's the only way.
 Finish by adding the toppings you desire.
+NO PINEAPPLE
 Add card information.
 Tip your driver 20%.
 Place the order.
 Wait for the order to arrive.
+IF wrong order is recieved, call restaurant back to fix it.
 Enjoy pizza!
 feeling too full
+The End!
